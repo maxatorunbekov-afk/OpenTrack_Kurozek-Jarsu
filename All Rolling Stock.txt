@@ -1,0 +1,254 @@
+//
+// File: C:\Users\student\Desktop\15.txt
+//
+// Produced by OpenTrack: Sat Apr 29 13:51:56 2023
+// Rolling Stock Export (Metrolinx-Format)
+//
+// Section #Engine#
+//
+// Engine Name	Load [t]	Adh. Load [t]	Length [m]	Rot. Mass Factor	Speed max. [km/h]	Tractive Effort Mac. [kN]	Balise Telegram	Loop Telegram	Radio Telegram	Rack Traction
+TE33A	138.000	138.000	21	1.060	187	533	1	0	1	0
+//
+// Section #TE Curve#
+//
+// Engine Name	Curve Name	Adh. good [%]	Adh. normal [%]	Adh. bad [%]	Curve No.	System	Speed [km/h]	Force [N]
+TE33A	Diagram 1	750	125	80	1	Universal Electric	0	533000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	1	533000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	2	533000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	3	533000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	4	533000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	5	533000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	6	533000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	7	533000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	8	533000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	9	533000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	10	533000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	11	533000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	12	533000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	13	533000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	14	533000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	15	533000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	16	533000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	17	533000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	18	533000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	19	533000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	20	533000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	21	533000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	22	533000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	23	533000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	24	533000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	25	533000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	26	533000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	27	533000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	28	533000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	29	533000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	30	533000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	31	533000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	32	533000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	33	533000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	34	533000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	35	533000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	36	533000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	37	533000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	38	533000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	39	533000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	40	533000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	41	520000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	42	507000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	43	496000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	44	485000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	45	474000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	46	464000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	47	454000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	48	445000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	49	436000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	50	427000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	51	419000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	52	411000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	53	403000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	54	396000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	55	389000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	56	382000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	57	375000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	58	369000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	59	362000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	60	357000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	61	351000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	62	345000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	63	340000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	64	335000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	65	329000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	66	325000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	67	320000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	68	315000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	69	311000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	70	306000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	71	302000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	72	298000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	73	294000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	74	290000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	75	286000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	76	282000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	77	279000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	78	275000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	79	272000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	80	269000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	81	265000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	82	262000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	83	259000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	84	256000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	85	253000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	86	250000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	87	247000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	88	245000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	89	242000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	90	239000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	91	237000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	92	234000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	93	232000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	94	229000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	95	227000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	96	225000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	97	222000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	98	220000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	99	218000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	100	216000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	101	214000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	102	212000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	103	210000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	104	208000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	105	206000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	106	204000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	107	202000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	108	200000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	109	198000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	110	197000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	111	195000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	112	193000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	113	191000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	114	190000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	115	188000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	116	187000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	117	185000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	118	184000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	119	181000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	120	178000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	121	176000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	122	173000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	123	171000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	124	168000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	125	166000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	126	163000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	127	161000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	128	159000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	129	156000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	130	154000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	131	152000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	132	150000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	133	148000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	134	146000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	135	144000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	136	142000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	137	140000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	138	138000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	139	136000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	140	135000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	141	133000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	142	132000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	143	130000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	144	129000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	145	127000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	146	125000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	147	124000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	148	123000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	149	121000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	150	120000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	151	118000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	152	117000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	153	116000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	154	114000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	155	113000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	156	112000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	157	112000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	158	111000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	159	111000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	160	110000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	161	110000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	162	109000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	163	108000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	164	108000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	165	107000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	166	107000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	167	106000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	168	106000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	169	105000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	170	104000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	171	104000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	172	103000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	173	103000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	174	102000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	175	101000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	176	101000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	177	100000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	178	100000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	179	99000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	180	99000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	181	98000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	182	97000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	183	97000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	184	96000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	185	96000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	186	95000.0
+TE33A	Diagram 1	750	125	80	1	Universal Electric	187	94000.0
+//
+// Section #Train#
+//
+// Train Name	Train Category	Rolling Resistance Equation	A	B	C	Starting Res. [N/t]	below Speed [km/h]	Gradient Resistance Formula	Curve Resistance Formula	Curve Resistance Percentage [%]	Max. Acceleration [m/s^2]	Acc. Delay [s]	Acc. Delay at Stop [s]	 Max. Drawbar Force [kN]	Min. Time to hold Speed [s] 	Braked Weight Percentage (BWP) [%]	C1	C2	Result [m/s^2]	Dynamic Braking Above [km/h]	Correct Deceleration on Gradients	Min. Dec [m/s^2]	Max. Dec [m/s^2]
+1256	Category 3	Strahl / Sauthoff Formula	n/a	n/a	n/a	n/a	n/a	Distributed Mass per Train	Formula 1520 mm (Trains)	100.0	3.00	0	0	n/a	n/a	100.0	0.069	0.0060	---	n/a	n/a	n/a	n/a
+1569	Category 3	Strahl / Sauthoff Formula	n/a	n/a	n/a	n/a	n/a	Distributed Mass per Train	Formula 1520 mm (Trains)	100.0	3.00	0	0	n/a	n/a	100.0	0.069	0.0060	---	n/a	n/a	n/a	n/a
+2214	Category 3	Strahl / Sauthoff Formula	n/a	n/a	n/a	n/a	n/a	Distributed Mass per Train	Formula 1520 mm (Trains)	100.0	3.00	0	0	n/a	n/a	100.0	0.069	0.0060	---	n/a	n/a	n/a	n/a
+3002	Category 3	Strahl / Sauthoff Formula	n/a	n/a	n/a	n/a	n/a	Distributed Mass per Train	Formula 1520 mm (Trains)	100.0	3.00	0	0	n/a	n/a	100.0	0.069	0.0060	---	n/a	n/a	n/a	n/a
+3004	Category 3	Strahl / Sauthoff Formula	n/a	n/a	n/a	n/a	n/a	Distributed Mass per Train	Formula 1520 mm (Trains)	100.0	3.00	0	0	n/a	n/a	100.0	0.069	0.0060	---	n/a	n/a	n/a	n/a
+3471	Category 3	Strahl / Sauthoff Formula	n/a	n/a	n/a	n/a	n/a	Distributed Mass per Train	Formula 1520 mm (Trains)	100.0	3.00	0	0	n/a	n/a	100.0	0.069	0.0060	---	n/a	n/a	n/a	n/a
+3473	Category 3	Strahl / Sauthoff Formula	n/a	n/a	n/a	n/a	n/a	Distributed Mass per Train	Formula 1520 mm (Trains)	100.0	3.00	0	0	n/a	n/a	100.0	0.069	0.0060	---	n/a	n/a	n/a	n/a
+6985	Category 1	Strahl / Sauthoff Formula	n/a	n/a	n/a	n/a	n/a	Distributed Mass per Train	Formula 1520 mm (Trains)	100.0	3.00	0	0	n/a	n/a	100.0	0.069	0.0060	---	n/a	n/a	n/a	n/a
+6986	Category 1	Strahl / Sauthoff Formula	n/a	n/a	n/a	n/a	n/a	Distributed Mass per Train	Formula 1520 mm (Trains)	100.0	3.00	0	0	n/a	n/a	100.0	0.069	0.0060	---	n/a	n/a	n/a	n/a
+//
+// Section #Train - Trailer#
+//
+// Train Name	Pos.	Name	Load [t]	Length [m]	P Loss [kW]	No. of Items	vmax. [km/h]	Rot. Mass Factors	D [m^2/s^2]	E [m]
+1256	2	Trailer 1	3200.000	780	0.000	1	90	1.060	6.30	55.00
+1569	2	Trailer 1	3000.000	794	0.000	1	90	1.060	6.30	55.00
+2214	2	Trailer 1	3200.000	963	0.000	1	90	1.060	6.30	55.00
+3002	2	Trailer 1	3200.000	794	0.000	1	90	1.060	6.30	55.00
+3004	2	Trailer 1	3200.000	1211	0.000	1	90	1.060	6.30	55.00
+3471	2	Trailer 1	3000.000	919	0.000	1	90	1.060	6.30	55.00
+3473	2	Trailer 1	3000.000	1002	0.000	1	90	1.060	6.30	55.00
+6985	2	Trailer 1	50.000	27	0.000	1	200	1.060	6.30	55.00
+6986	2	Trailer 1	50.000	27	0.000	1	200	1.060	6.30	55.00
+//
+// Section #Train - Engines#
+//
+// Train Name	Pos.	Name	Load [t]	Length [m]	D [m^2/s^2]	E [m]
+1256	1	TE33A	138.000	21	6.30	55.00
+1569	1	TE33A	138.000	21	6.30	55.00
+2214	1	TE33A	138.000	21	6.30	55.00
+3002	1	TE33A	138.000	21	6.30	55.00
+3004	1	TE33A	138.000	21	6.30	55.00
+3471	1	TE33A	138.000	21	6.30	55.00
+3473	1	TE33A	138.000	21	6.30	55.00
+6985	1	TE33A	138.000	21	6.30	55.00
+6986	1	TE33A	138.000	21	6.30	55.00
+//
+// Section #Train - Deceleration#
+//
+// Train Name	Decleration	Table Index	From [km/h]	To [km/h]	Dec. 1 [m/s^2]	Dec. 2 [m/s^2]
+1256	UIC Formula	1	0	v max.	-0.60	
+1569	UIC Formula	1	0	v max.	-0.60	
+2214	UIC Formula	1	0	v max.	-0.60	
+3002	UIC Formula	1	0	v max.	-0.60	
+3004	UIC Formula	1	0	v max.	-0.60	
+3471	UIC Formula	1	0	v max.	-0.60	
+3473	UIC Formula	1	0	v max.	-0.60	
+6985	UIC Formula	1	0	v max.	-0.60	
+6986	UIC Formula	1	0	v max.	-0.60	

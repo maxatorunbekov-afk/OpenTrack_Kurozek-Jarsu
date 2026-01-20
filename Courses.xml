@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE trafit SYSTEM "trafit.dtd">
+<trafIT>
+	<courses>
+		<course courseID="3002" description="" comment=""  kind=""  train="3002" speedType="Cargo Train" entrySpeed="0.0" onTimePerf="100.0" delayedPerf="100.0" routeReservation="Moving" use="yes">
+			<itinerary name="I:KUR_[236]-JAR_[723]" priority="1"/>
+		</course>
+		<course courseID="3004" description="" comment=""  kind=""  train="3004" speedType="Cargo Train" entrySpeed="0.0" onTimePerf="100.0" delayedPerf="100.0" routeReservation="Moving" use="yes">
+			<itinerary name="I:KUR_[384]-JAR_[723]" priority="1"/>
+		</course>
+	</courses>
+</trafIT>

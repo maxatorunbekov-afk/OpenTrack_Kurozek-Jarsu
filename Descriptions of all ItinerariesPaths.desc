@@ -1,0 +1,106 @@
+//
+// Produced by OpenTrack: Fri Oct 20 22:21:01 2023
+// Descriptions of all Itineraries/Paths
+// Type    : OT_Text
+// Desc.   : OT_topo_text
+// x-Legend: none
+// y-Legend: none
+//
+Itineraries
+
+I:JAR_[698]-KUR_[366] 			(Contains 1 Paths / 4 Routes / Total Length = 40428 m)
+	P:JAR_[698]-KUR_[366] 		(Length = 40428 m)
+		JAR-EKP_From_T1 	(Length = 20006 m)
+		From EKP_N - To EKP_N2 	(Length = 1305 m)
+		EKP-KUR_From_T2 	(Length = 17558 m)
+		From KUR_N - To KUR_N4 	(Length = 1559 m)
+
+I:JAR_[698]-KUR_[366] 			(Contains 1 Paths / 4 Routes / Total Length = 40428 m)
+	P:JAR_[698]-KUR_[366] 		(Length = 40428 m)
+		JAR-EKP_From_T1 	(Length = 20006 m)
+		From EKP_N - To EKP_N2 	(Length = 1305 m)
+		EKP-KUR_From_T2 	(Length = 17558 m)
+		From KUR_N - To KUR_N4 	(Length = 1559 m)
+
+I:JAR_[716]-KUR_[252] 			(Contains 1 Paths / 4 Routes / Total Length = 40085 m)
+	P:JAR_[716]-KUR_[252] 		(Length = 40085 m)
+		JAR-EKP_From_T2 	(Length = 20006 m)
+		From EKP_N - To EKP_N3 	(Length = 1270 m)
+		EKP-KUR_From_T3 	(Length = 17563 m)
+		From KUR_N - To KUR_N2 	(Length = 1246 m)
+
+I:KUR_[236]-JAR_[723] 			(Contains 1 Paths / 4 Routes / Total Length = 40472 m)
+	P:KUR_[236]-JAR_[723] 		(Length = 40472 m)
+		KUR-EKP_From_T1 	(Length = 17826 m)
+		From EKP_C - To EKP_C1 	(Length = 1312 m)
+		EKP-JAR_From_T1 	(Length = 20029 m)
+		From JAR_C - To JAR_C2 	(Length = 1305 m)
+
+I:KUR_[236]-JAR_[723] 			(Contains 1 Paths / 4 Routes / Total Length = 40472 m)
+	P:KUR_[236]-JAR_[723] 		(Length = 40472 m)
+		KUR-EKP_From_T1 	(Length = 17826 m)
+		From EKP_C - To EKP_C1 	(Length = 1312 m)
+		EKP-JAR_From_T1 	(Length = 20029 m)
+		From JAR_C - To JAR_C2 	(Length = 1305 m)
+
+I:KUR_[384]-JAR_[723] 			(Contains 1 Paths / 4 Routes / Total Length = 40446 m)
+	P:KUR_[384]-JAR_[723] 		(Length = 40446 m)
+		KUR-EKP_From_T5 	(Length = 17800 m)
+		From EKP_C - To EKP_C1 	(Length = 1312 m)
+		EKP-JAR_From_T1 	(Length = 20029 m)
+		From JAR_C - To JAR_C2 	(Length = 1305 m)
+
+
+
+Paths
+
+P:JAR_[698]-KUR_[366] 	(Contains 4 Routes / Total Length = 40428 m)
+	JAR-EKP_From_T1 	(Length = 20006 m)
+	From EKP_N - To EKP_N2 	(Length = 1305 m)
+	EKP-KUR_From_T2 	(Length = 17558 m)
+	From KUR_N - To KUR_N4 	(Length = 1559 m)
+
+P:JAR_[716]-KUR_[252] 	(Contains 4 Routes / Total Length = 40085 m)
+	JAR-EKP_From_T2 	(Length = 20006 m)
+	From EKP_N - To EKP_N3 	(Length = 1270 m)
+	EKP-KUR_From_T3 	(Length = 17563 m)
+	From KUR_N - To KUR_N2 	(Length = 1246 m)
+
+P:JAR_[734]-KUR_[405] 	(Contains 4 Routes / Total Length = 40454 m)
+	JAR-EKP_From_T3 	(Length = 20041 m)
+	From EKP_N - To EKP_N3 	(Length = 1270 m)
+	EKP-KUR_From_T3 	(Length = 17563 m)
+	From KUR_N - To KUR_N3 	(Length = 1580 m)
+
+P:KUR_[236]-JAR_[723] 	(Contains 4 Routes / Total Length = 40472 m)
+	KUR-EKP_From_T1 	(Length = 17826 m)
+	From EKP_C - To EKP_C1 	(Length = 1312 m)
+	EKP-JAR_From_T1 	(Length = 20029 m)
+	From JAR_C - To JAR_C2 	(Length = 1305 m)
+
+P:KUR_[262]-JAR_[705] 	(Contains 4 Routes / Total Length = 40426 m)
+	KUR-EKP_From_T2 	(Length = 17803 m)
+	From EKP_C - To EKP_C2 	(Length = 1335 m)
+	EKP-JAR_From_T2 	(Length = 20006 m)
+	From JAR_C - To JAR_C1 	(Length = 1282 m)
+
+P:KUR_[284]-JAR_[741] 	(Contains 4 Routes / Total Length = 40441 m)
+	KUR-EKP_From_T3 	(Length = 17779 m)
+	From EKP_C - To EKP_C3 	(Length = 1351 m)
+	EKP-JAR_From_T3 	(Length = 19960 m)
+	From JAR_C - To JAR_C3 	(Length = 1351 m)
+
+P:KUR_[384]-JAR_[723] 	(Contains 4 Routes / Total Length = 40446 m)
+	KUR-EKP_From_T5 	(Length = 17800 m)
+	From EKP_C - To EKP_C1 	(Length = 1312 m)
+	EKP-JAR_From_T1 	(Length = 20029 m)
+	From JAR_C - To JAR_C2 	(Length = 1305 m)
+
+P:KUR_[388]-JAR_[705] 	(Contains 4 Routes / Total Length = 40423 m)
+	KUR-EKP_From_T4 	(Length = 17800 m)
+	From EKP_C - To EKP_C1 	(Length = 1312 m)
+	EKP-JAR_From_T1 	(Length = 20029 m)
+	From JAR_C - To JAR_C1 	(Length = 1282 m)
+
+
+

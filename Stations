@@ -1,0 +1,29 @@
+//
+// Produced by OpenTrack: Fri Oct 20 22:24:00 2023
+// Stations (Text)
+// Type    : OT_Text
+// Desc.   : OT_sta_text
+// x-Legend: none
+// y-Legend: none
+//
+// ------------------------------------------------------
+// companyID, companyDeptID, stationID, resID,
+// x-Coord, y-Coord, longtitude, latitude, altitude,
+// stationSign, stationName, stationType
+// ------------------------------------------------------
+//
+0	0	0	0	0	0			0	ALT	ALTYNKOL	
+0	0	0	0	0	0			0	AID	Aidarly	
+0	0	0	0	0	0			0	EKP	Ekpindi	
+0	0	0	0	0	0			0	IIN	Iintal	
+0	0	0	0	0	0			0	JET	JETIGEN	
+0	0	0	0	0	0			0	JAR	Jarsu	
+0	0	0	0	0	0			0	JIN	Jinishkesu	
+0	0	0	0	0	0			0	KER	Kerimagash	
+0	0	0	0	0	0			0	KUN	Kundyzdy	
+0	0	0	0	0	0			0	KUR	Kurozek	
+0	0	0	0	0	0			0	NUR	Nurly	
+0	0	0	0	0	0			0	ORT	Ortakudyk	
+0	0	0	0	0	0			0	SHA	Sharyn	
+0	0	0	0	0	0			0	SHE	Shelek	
+0	0	0	0	0	0			0	TAS	Taskarasu	

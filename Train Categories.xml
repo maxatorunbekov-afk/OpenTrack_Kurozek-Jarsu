@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE opentrack SYSTEM "opentrack.dtd">
+<opentrack>
+	<trainCategories>
+		<trainCategory name="Category 2">
+			<dispatching priority="1">
+			</dispatching>
+			<initialDelay useInitialDelay="no">
+				<distribution type="negative exponential" mean="0.0" max="0.0" percentage="0.0">
+				</distribution>
+			</initialDelay>
+			<performance useOnTimePerformance="no" useDelayedPerformance="no" useSquareOfPerformanceFactor="no">
+				<performanceDistribution type="onTime">
+					<step from="100.0" to="100.0" percentage="100.0"/>
+				</performanceDistribution>
+				<performanceDistribution type="delayed">
+					<step from="100.0" to="100.0" percentage="100.0"/>
+				</performanceDistribution>
+			</performance>
+			<timetableDefaults useTrackNames="No">
+			</timetableDefaults>
+			<delaySettings smallDelay="1.0"  mediumDelay="60.0"  largeDelay="300.0">
+			</delaySettings>
+		</trainCategory>
+		<trainCategory name="Category 1">
+			<dispatching priority="1">
+			</dispatching>
+			<initialDelay useInitialDelay="no">
+				<distribution type="negative exponential" mean="0.0" max="0.0" percentage="0.0">
+				</distribution>
+			</initialDelay>
+			<performance useOnTimePerformance="yes" useDelayedPerformance="no" useSquareOfPerformanceFactor="yes">
+				<performanceDistribution type="onTime">
+					<step from="100.0" to="100.0" percentage="100.0"/>
+				</performanceDistribution>
+				<performanceDistribution type="delayed">
+					<step from="100.0" to="100.0" percentage="100.0"/>
+				</performanceDistribution>
+			</performance>
+			<timetableDefaults useTrackNames="No">
+			</timetableDefaults>
+			<delaySettings smallDelay="1.0"  mediumDelay="60.0"  largeDelay="300.0">
+			</delaySettings>
+		</trainCategory>
+	</trainCategories>
+</opentrack>
